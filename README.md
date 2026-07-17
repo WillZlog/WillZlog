@@ -17,4 +17,4 @@ you can find me on:
 
 or at my personal website
 
-[here!]("https://willzlog.dev")
+[here](https://willzlog.dev)
