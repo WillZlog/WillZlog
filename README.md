@@ -14,3 +14,7 @@ you can find me on:
 [linkedin](www.linkedin.com/in/william-albin-zieme-821a24319)
 [leetcode](https://leetcode.com/u/gEHoPpx1hp/)
 [hackerrank](https://www.hackerrank.com/profile/albin_zieme)
+
+or at my personal website
+
+[here!]("https://willzlog.dev")
